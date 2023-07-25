@@ -7,7 +7,7 @@ A recommendation system basically seeks out content that a particular person mig
 ### About this project:
 Based on a user's interests, this stream-lit online application can suggest various kinds of related films. 
 Click here to run it live on server:-
-http://localhost:8501/
+http://localhost:8502/
 
 ### Dataset has been used:
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
